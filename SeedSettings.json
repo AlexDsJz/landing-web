@@ -1,0 +1,9 @@
+{
+  "extend": {
+    "actions": []
+  },
+  "last_build_version": "0.5.6",
+  "platform": "reactjs",
+  "project_description": "In this repository, we create a Landing Page using ReactJS as Frontend",
+  "project_name": "Landing Page Frontend"
+}
